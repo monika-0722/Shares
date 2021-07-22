@@ -1,0 +1,40 @@
+#root{
+  text-align: center;
+}
+.box, .list-item {
+  background-color: #fafafa;
+  border: 0px solid #222;
+  margin-top: 40px;
+  font-size: 20px !important;
+  
+}
+
+.list-item span{
+  color: #027cca;
+  font-weight: bold;
+  font-size: 35px;
+}
+.h1, h1 {
+  font-size: 2.5rem;
+  color: rgb(228, 77, 77);
+
+}
+
+.balance {
+  padding: 12px;
+  font-size: 20px;
+  background: rgb(228, 77, 77);
+  color: #fff;
+  border-radius: 7px;
+}
+
+.blance-div{
+  height: 70px;
+  padding: 50px;
+}
+
+.list-item{
+  padding: 10px;
+  border-radius: 4px;
+}
+
