@@ -1,5 +1,5 @@
 {
-  "homepage": "http://monika-0722.github.io/React-app",
+  "homepage": "http://monika-0722.github.io/Shares",
   "name": "newapp",
   "version": "0.1.0",
   "private": true,
@@ -10,7 +10,6 @@
     "axios": "^0.21.1",
     "bootstrap": "^4.6.0",
     "chart.js": "^3.4.0",
-    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-bootstrap": "^1.6.1",
     "react-chartjs-2": "^3.0.3",
@@ -44,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
