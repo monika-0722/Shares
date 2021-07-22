@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Shares/static/css/main.e8517686.chunk.css",
+    "main.js": "/Shares/static/js/main.b050f5ac.chunk.js",
+    "main.js.map": "/Shares/static/js/main.b050f5ac.chunk.js.map",
+    "runtime-main.js": "/Shares/static/js/runtime-main.6948aaf2.js",
+    "runtime-main.js.map": "/Shares/static/js/runtime-main.6948aaf2.js.map",
+    "static/css/2.30aa0790.chunk.css": "/Shares/static/css/2.30aa0790.chunk.css",
+    "static/js/2.347151d9.chunk.js": "/Shares/static/js/2.347151d9.chunk.js",
+    "static/js/2.347151d9.chunk.js.map": "/Shares/static/js/2.347151d9.chunk.js.map",
+    "index.html": "/Shares/index.html",
+    "static/css/2.30aa0790.chunk.css.map": "/Shares/static/css/2.30aa0790.chunk.css.map",
+    "static/css/main.e8517686.chunk.css.map": "/Shares/static/css/main.e8517686.chunk.css.map",
+    "static/js/2.347151d9.chunk.js.LICENSE.txt": "/Shares/static/js/2.347151d9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Shares/static/media/bg-desktop-dark.73e47dbb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6948aaf2.js",
+    "static/css/2.30aa0790.chunk.css",
+    "static/js/2.347151d9.chunk.js",
+    "static/css/main.e8517686.chunk.css",
+    "static/js/main.b050f5ac.chunk.js"
+  ]
+}
